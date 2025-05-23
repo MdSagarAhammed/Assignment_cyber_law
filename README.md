@@ -1,10 +1,10 @@
-# ProposedCyberlaw
-# Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+# Assignment Title:Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
 **Course Title:** Computer Ethics and Cyber Law  
 **Course Code:** CSE 455  
 
-**Submitted by:** Md.Sagar Ahammed 
+**Submitted by:** 
+**Name:** Md.Sagar Ahammed 
 **ID:** 2002004 
 **Date:** 23 May 2025  
 
@@ -108,7 +108,7 @@ To make the country digitally safe, Bangladesh needs to modernize its cyber laws
 - Introduce AI regulations to mitigate risks like misinformation and bias.  
 - Launch cyber literacy programs to empower citizens and businesses.
 - Digital Identity and Secure Online Services by implementing safe digital ID for citizen access to services.
- These steps will foster trust, innovation, and resilience in Bangladesh’s digital ecosystem.
+These steps will foster trust, innovation, and resilience in Bangladesh’s digital ecosystem.
 ---
 
 ## References
