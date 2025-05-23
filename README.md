@@ -5,7 +5,7 @@
 **Course Code:** CSE 455  
 
 **Submitted by:** Md.Sagar Ahammed 
-**ID:** 2002004  
+**ID:** 2002004 
 **Date:** 23 May 2025  
 
 **Submitted to:**  
@@ -48,7 +48,7 @@ The digital landscape in Bangladesh is rapidly evolving, bringing both opportuni
 - Lack of Data Privacy Laws
 - Low Public Awareness
 - Slow Legal Process and Lack of Training
-- 
+  
 ---
 
 ## Comparative Study of Global Cyber Laws of leading countries
@@ -107,7 +107,8 @@ To make the country digitally safe, Bangladesh needs to modernize its cyber laws
 - Establish a National Cybersecurity Authority and Cybercrime Investigation Unit (CCIU).  
 - Introduce AI regulations to mitigate risks like misinformation and bias.  
 - Launch cyber literacy programs to empower citizens and businesses.
-These steps will foster trust, innovation, and resilience in Bangladesh’s digital ecosystem.
+- Digital Identity and Secure Online Services by implementing safe digital ID for citizen access to services.
+ These steps will foster trust, innovation, and resilience in Bangladesh’s digital ecosystem.
 ---
 
 ## References
